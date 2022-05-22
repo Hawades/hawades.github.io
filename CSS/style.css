@@ -6,9 +6,31 @@
     background-color: aliceblue;
     height: 200px;
     width: 300px;
+    margin-top: 10%;
+    padding-top: 300px;
     margin-left: auto;
     margin-right: auto;
     border-radius: 20px;
     border: 15px;
     
+}
+.text{
+color: black;
+margin-top: -70%;
+margin-left: 15%;
+
+}
+.text.1{
+    
+}
+
+.secblock{
+    background-color: white;
+    height: 100px;
+    width: 300px;
+    margin-top: -37%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    border: 15px;
 }

@@ -1,0 +1,84 @@
+@media only screen and (max-width: 990px){
+
+.wrapper{
+ width: 750px;    
+}
+
+
+
+}
+
+@media screen and (max-width: 768px) {
+    .wrapper{
+        width: 552px;
+
+    }
+    .secblock{
+        background-color: black;
+        height: 1000px;
+        width: 400px;
+        margin-top: 62%;
+        margin-left: 75%;
+        border-radius: 20px;
+        border: 15px;
+    }
+    .thblock{
+        background-color: black;
+        height: 100px;
+        width: 400px;
+        margin-top: -62%;
+        margin-left: 75%;
+        border-radius: 1px;
+        border: 1px;
+    }
+
+}
+
+
+@media screen and (max-width: 480px) {
+
+.wrapper{
+    width: 320px;
+}
+.secblock{
+    background-color: white;
+    height: 400px;
+    width: 304px;
+    margin-top: 19%;
+    margin-left: 40%;
+    border-radius: 20px;
+    border: 15px;
+}
+.thblock{
+    background-color: blue;
+    height: 760px;
+    width: 120px;
+    margin-top: -0.2%;
+    margin-left: -1%;
+    border-radius: 20px;
+    border: 10px;
+    float: left;
+}
+.forblock{
+    background-color: yellow;
+    height: 50px;
+    width: 440px;
+    margin-top: -262%;
+    margin-left: -1%;
+    border-radius: 20px;
+    border: 10px;
+    float: top;
+}
+
+.firstblock{
+    background-color: black;
+    height: 350px;
+    width: 310px;
+    margin-top: -3%;
+    margin-left: 39%;
+    border-radius: 20px;
+    border: 10px;
+    float: bottom;
+}
+
+}

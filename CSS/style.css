@@ -9,11 +9,10 @@
     background-color: white;
     height: 200px;
     width: 400px;
-    margin-top: 15%;
-    padding-top: 300px;
-    margin-left: 75%;
+    margin-left: 70%;
+    margin-top: 1%;
     border-radius: 20px;
-    border: 15px;
+    border: 10px;
     
 }
 .text{
@@ -26,8 +25,8 @@ margin-left: 15%;
     background-color: white;
     height: 100px;
     width: 400px;
-    margin-top: -62%;
-    margin-left: 75%;
+    margin-left: 70%;
+    margin-top: 10%;
     border-radius: 20px;
     border: 15px;
 }
@@ -35,18 +34,18 @@ margin-left: 15%;
     background-color: white;
     height: 610px;
     width: 200px;
-    margin-top: 4%;
-    margin-left: 53%;
+    margin-left: 48%;
+    margin-top: 0.1%;
     border-radius: 20px;
     border: 15px;
     float: left;
 }
 .forblock{
     background-color: white;
-    height: 150px;
-    width: 610px;
-    margin-top: 44.9%;
-    margin-left: 53%;
+    height: 270px;
+    width: 395px;
+    margin-left: 70%;
+    margin-top: 1;
     border-radius: 20px;
     border: 15px;
 }

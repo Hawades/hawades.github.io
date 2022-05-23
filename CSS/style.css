@@ -2,14 +2,16 @@
     background-color: aqua;
     color: white;
 }
+.wrapper{
+    width: 990px;
+}
 .firstblock{
-    background-color: aliceblue;
+    background-color: white;
     height: 200px;
-    width: 300px;
-    margin-top: 10%;
+    width: 400px;
+    margin-top: 15%;
     padding-top: 300px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 75%;
     border-radius: 20px;
     border: 15px;
     
@@ -20,17 +22,41 @@ margin-top: -70%;
 margin-left: 15%;
 
 }
-.text.1{
-    
-}
-
 .secblock{
     background-color: white;
     height: 100px;
-    width: 300px;
-    margin-top: -40%;
-    margin-left: auto;
-    margin-right: auto;
+    width: 400px;
+    margin-top: -62%;
+    margin-left: 75%;
     border-radius: 20px;
     border: 15px;
+}
+.thblock{
+    background-color: white;
+    height: 610px;
+    width: 200px;
+    margin-top: 4%;
+    margin-left: 53%;
+    border-radius: 20px;
+    border: 15px;
+    float: left;
+}
+.forblock{
+    background-color: white;
+    height: 150px;
+    width: 610px;
+    margin-top: 44.9%;
+    margin-left: 53%;
+    border-radius: 20px;
+    border: 15px;
+}
+.photo{
+    height: 120%;
+    width: 120%;
+    box-shadow: 0px 0px 5px;
+    margin-top: -1%;
+    margin-left: -18%;
+    border-radius: 20px;
+    border: 15px;
+
 }

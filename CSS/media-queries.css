@@ -48,7 +48,7 @@
     width: 430px;
     margin-top: 1%;
     margin-left: 0.1%;
-    padding-right: 1%;
+    margin-right: 7%;
     border-radius: 20px;
     border: 15px;
 }
@@ -58,7 +58,7 @@
     width: 430px;
     margin-top: 5%;
     margin-left: 0.1%;
-    padding-right: 1%;
+    margin-right: 7%;
     border-radius: 20px;
     border: 10px;
 }
@@ -68,7 +68,7 @@
     width: 430px;
     margin-top: -348%;
     margin-left: 0.1%;
-    padding-right: 1%;
+    margin-right: 7%;
     border-radius: 20px;
     border: 10px;
 }
@@ -79,7 +79,7 @@
     width: 430px;
     margin-top: 371%;
     margin-left: 0.1%;
-    padding-right: 1%;
+    margin-right: 7%;
     border-radius: 20px;
     border: 10px;
 }
@@ -89,7 +89,7 @@
     width: 430px;
     margin-top: 85%;
     margin-left: 0.1%;
-    padding-right: 1%;
+    margin-right: 7%;
     border-radius: 40px;
 }
 .plans{

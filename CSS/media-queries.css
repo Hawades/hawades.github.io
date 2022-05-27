@@ -1,0 +1,160 @@
+@media only screen and (max-width: 990px){
+
+.wrapper{
+ width: 750px; 
+ margin-left: 15%;   
+}
+
+
+
+}
+
+@media screen and (max-width: 768px) {
+    .wrapper{
+        width: 552px;
+
+    }
+    .secblock{
+        background-color: black;
+        height: 1000px;
+        width: 400px;
+        margin-top: 62%;
+        margin-left: 75%;
+        border-radius: 20px;
+        border: 15px;
+    }
+    .thblock{
+        background-color: black;
+        height: 100px;
+        width: 400px;
+        margin-top: -62%;
+        margin-left: 75%;
+        border-radius: 1px;
+        border: 1px;
+    }
+
+}
+/*Mobile phones*/
+
+@media screen and (max-width: 480px) {
+
+.wrapper{
+    width: 350px;
+    margin-left: 0%;
+}
+.secblock{
+    background-color: white;
+    height: 170px;
+    width: 430px;
+    margin-top: 1%;
+    margin-left: 0.1%;
+    margin-right: 7%;
+    border-radius: 20px;
+    border: 15px;
+}
+.thblock{
+    background-color: white;
+    height: 300px;
+    width: 430px;
+    margin-top: 5%;
+    margin-left: 0.1%;
+    margin-right: 7%;
+    border-radius: 20px;
+    border: 10px;
+}
+.forblock{
+    background-color: white;
+    height: 930px;
+    width: 430px;
+    margin-top: -358%;
+    margin-left: 0.1%;
+    margin-right: 7%;
+    border-radius: 20px;
+    border: 10px;
+}
+
+.firstblock{
+    background-color: white;
+    height: 300px;
+    width: 430px;
+    margin-top: 371%;
+    margin-left: 0.1%;
+    margin-right: 7%;
+    border-radius: 20px;
+    border: 10px;
+}
+.fifthblock{
+    background-color: white;
+    height: 80px;
+    width: 430px;
+    margin-top: 100%;
+    margin-left: 0.1%;
+    margin-right: 7%;
+    border-radius: 40px;
+}
+.plans{
+    margin-left: 35%;
+}
+.header1{
+    padding-top: 5%;
+
+}
+.maintextplans{
+    font-size: 17px;
+    margin-left: 1%;
+    margin-left: 3%;
+}
+
+.header2{
+    margin-left: 65%;
+    margin-top: -23%;
+}
+
+.maintextplans1{
+    font-size: 17px;
+    margin-left:62%;  
+    margin-top: 2%;
+
+}
+.header3{
+    margin-top: -2%;
+}
+.maintextplans2{
+    font-size: 17px;
+    margin-left:10%;  
+    margin-top: 3%;
+}
+.header4{
+    margin-left: 62%;
+    margin-top: -27.5%;
+}
+.maintextplans3{
+    font-size: 17px;
+    margin-left:60%;  
+    margin-top: 3.6%;
+}
+.invite{
+    color: black;
+    font-size: 19px;
+    font-family: 'Alegreya SC', serif;
+    padding-top: 20px;
+    margin-left: 3%;
+
+}
+.name{
+    margin-left: 6%;
+    margin-top: 6%;
+}
+.face{
+margin-left: 1%;
+}
+.inst{
+    margin-top: -23.1%;
+    margin-left: 21%;
+}
+.pos{
+    margin-top: -22%;
+    margin-left: 40%;
+}
+}
+
